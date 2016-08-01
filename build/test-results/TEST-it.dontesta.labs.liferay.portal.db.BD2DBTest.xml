@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="it.dontesta.labs.liferay.portal.db.BD2DBTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2016-08-01T12:30:24" hostname="amusarra-mbp.local" time="0.016">
+  <properties/>
+  <testcase name="testDBType" classname="it.dontesta.labs.liferay.portal.db.BD2DBTest" time="0.002"/>
+  <testcase name="testReplaceTemplate" classname="it.dontesta.labs.liferay.portal.db.BD2DBTest" time="0.013"/>
+  <system-out><![CDATA[Loading jar:file:/Users/amusarra/.gradle/caches/modules-2/files-2.1/com.liferay.portal/com.liferay.portal.impl/2.3.0/bb8118008effd8df772c59b7831af510d96feaee/com.liferay.portal.impl-2.3.0.jar!/system.properties
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
