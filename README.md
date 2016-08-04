@@ -41,10 +41,11 @@ Our file is called com.liferay.portal.kernel.dao.db.DBFactory and contain the FQ
 
 In the figure below shows the complete class diagram for DB2.
 
-![Class Diagram for DB2](http://www.dontesta.it/blog/wp-content/uploads/2014/02/DB2-1.png
+![Class Diagram for DB2](http://www.dontesta.it/blog/wp-content/uploads/2014/02/DB2-1.png)
 
 ## 2. Build project
 Requirements for build project
+
 1. Sun/Oracle JDK 1.8
 2. Maven 3.x (for build project) or Gradle 2.x
 
@@ -78,7 +79,7 @@ the build process create the jar inside the build/libs directory.
 
 To install Liferay on DB2 you must have previously configured a schema for Liferay on an DB2 Database.
 
-I have used Virtual Appliance with a DB2 Express-C 10.1 (FP2) installation on SUSE Linux Enterprise Server
+I have used [Virtual Appliance](https://www-01.ibm.com/marketing/iwm/iwm/web/reg/pick.do?source=swg-db2va) with a DB2 Express-C 10.1 (FP2) installation on SUSE Linux Enterprise Server
 
 The parameters of my DB2 instance are:
 * Username: db2inst1
