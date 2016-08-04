@@ -88,4 +88,5 @@ target/
 # Code Recommenders
 .recommenders/
 
-.gradle
+.gradle/
+build/
