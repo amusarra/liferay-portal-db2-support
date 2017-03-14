@@ -140,6 +140,6 @@ Below you can see the portal-ext.properties
 
 You can see the part of the catalina.out log file and the contents of the DB2 Liferay database.
 
-![Liferay CE 7 GA2 on IBM DB2 Database ](http://www.dontesta.it/blog/wp-content/uploads/2016/08/Liferay7CEOnIBMDB2DataBase.png)
+![Liferay CE 7 GA2 on IBM DB2 Database ](https://www.dontesta.it/wp-content/uploads/2016/08/Liferay7CEOnIBMDB2DataBase.png)
 
-![Liferay CE 7 GA2 on IBM DB2 Database ](http://www.dontesta.it/blog/wp-content/uploads/2016/08/Liferay7CEOnIBMDB2DataBase_1.png)
+![Liferay CE 7 GA2 on IBM DB2 Database ](https://www.dontesta.it/wp-content/uploads/2016/08/Liferay7CEOnIBMDB2DataBase_1.png)
