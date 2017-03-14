@@ -41,7 +41,7 @@ Our file is called com.liferay.portal.kernel.dao.db.DBFactory and contain the FQ
 
 In the figure below shows the complete class diagram for DB2.
 
-![Class Diagram for DB2](http://www.dontesta.it/blog/wp-content/uploads/2014/02/DB2-1.png)
+![Class Diagram for DB2](https://www.dontesta.it/wp-content/uploads/2014/02/DB2-1.png)
 
 ## 2. Build project
 Requirements for build project
