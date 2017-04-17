@@ -14,6 +14,8 @@ The Liferay 7 CE no more support OOTB (Out Of The Box):
 
 This sample project demonstrates how to add support to the IBM DB2 database. Liferay has performed refactorting the code so that it is possible and easy to add support for databases no longer supported OOTB.
 
+[<img src="https://www.dontesta.it/wp-content/uploads/2017/04/PayPalMeAntonioMusarra.png">](https://paypal.me/AntonioMusarra)
+
 ## 1. Introduction
 To extend support to other databases, Liferay has decided to refactory code to use Java [*SPI (Service Provider Interface)*](https://docs.oracle.com/javase/tutorial/sound/SPI-intro.html). SPI is the mechanism that allows you to extend / change the behavior within a system without changing the source. It includes interfaces, classes or methods that the user extends or implements in order to obtain a certain functionality.
 
